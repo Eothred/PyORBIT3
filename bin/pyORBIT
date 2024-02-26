@@ -6,5 +6,5 @@ then
     python -i -m orbit.core.pyORBIT
 else
     # Otherwise run the script
-    python -m orbit.core.pyORBIT $1
+    python -m orbit.core.pyORBIT $@
 fi
