@@ -1,5 +1,9 @@
 # PyOrbit3 package installation
 
+# WARNING: THIS BRANCH IS NOT INTENDED FOR USE
+
+This is an INCOMPLETE test branch for an alternative build system/structure. Any users of the framework should look elsewhere.
+
 ## 0. Required software
 
 One needs compilers and python development packages, depending on  Linux flavor the package can be called **python-dev** or **python-devel**.
